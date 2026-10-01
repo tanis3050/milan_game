@@ -6,9 +6,9 @@ theme was time is money. so thought about a story based game where the player ex
 
 ## core gameplay loop
 
-The players takes the instructions given at face value and picks options related to money making.but the responses or those actions would silently degrade mental health of player and they would get really negetive dialouges.
+The players takes the instructions given at face value and picks options related to money making.but the responses or those actions would silently degrade mental health of player and they would get really negetive dialogues.
 
-## intended player expereince
+## intended player experience 
 
 something like undertale. where on first playthrough you get the bad ending but in the second playthrough you explore other options and find out this game is not about only making money.
 
@@ -23,10 +23,10 @@ it was supposed to be a low poly 3d game which happens in just one room(Work fro
 "static speaks to me" and many more events were supposed to be there like going out with friends, and was gonna start with much worse mental health, going towards suicidal. these were due time constraints.
 
 ## team members
-only I am on the time :)
+only I am on the team :)
 
 ## All resources and references
 game references - depression quest
 - milk outside a bag of milk 
-- undertale(hidden stats,multiple ending. tho not even properly implemented)
-as you can see no assests used in the games
+- undertale (hidden stats,multiple ending. tho not even properly implemented)
+as you can see no assets used in the games
