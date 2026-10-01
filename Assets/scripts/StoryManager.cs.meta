@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eb8dc6e3b2ac991e6a8992ab177ff0b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inkFile: {fileID: 6231892579173505729, guid: 1ebbd8e6432426e4c8920ab4880d9c12, type: 3}
+  - gameState: {instanceID: 0}
+  - locationText: {instanceID: 0}
+  - storyText: {instanceID: 0}
+  - dayText: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - moneyText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
