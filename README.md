@@ -1,6 +1,6 @@
 # milan_game
 for milan game jam 2026 Raman hostel
-
+itch.io link - https://tanis3050.itch.io/worth-your-time
 ## game concept 
 theme was time is money. so thought about a story based game where the player explicit goal is to get a set amount of time.but while doing so they neglect their mental health,which leads to problems later on. Wanted the player to challenge the idea of "time is money" meaning they shouldn't convert all their time into getting money.
 
